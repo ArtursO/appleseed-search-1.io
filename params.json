@@ -1,5 +1,5 @@
 {
-  "name": "Appleseed-search-arturs.io",
+  "name": "Appleseed-search-1.io",
   "tagline": "List of Appleseed Search technologies",
   "body": "## Welcome to the Appleseed Framework - Search Technologies Page\r\nThe Appleseed Framework is maintained and managed primarily by [Anant Corporation](www.anant.us). It is composed of Appleseed Base, Appleseed Search, and [Appleseed Portal](https://github.com/Appleseed/portal).\r\n\r\n## Search Technologies\r\nHere we will cover the various underlying technologies that Appleseed Search is made up of, and provide some resources regarding these technologies. \r\n\r\n### Apache Lucene\r\n1. [An Introduction to Lucene](http://lucene.apache.org/core/)\r\n2. Watch this[14-minute Introductory Video] (https://www.youtube.com/watch?v=vLEvmZ5eEz0)\r\n3. An article about the various [good parts of Lucene](http://blog.parsely.com/post/1691/lucene/)\r\n  1. The [Hacker News discussion thread](https://news.ycombinator.com/item?id=9198092) on the above article. \r\n\r\n### Apache Solr\r\n\r\n### Elastic Search\r\n\r\n### Support or Contact\r\nIf you have any questions please don't hesitate to reach out to us [via our contact page](www.anant.us/contact.aspx) or leave us a message in our [gitter chat room](https://gitter.im/Appleseed)!\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
